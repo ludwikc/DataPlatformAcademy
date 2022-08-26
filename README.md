@@ -7,8 +7,8 @@ Hop on and let's take it to the next level.
 
 Current courses: 
 
-##SQLBootcamp :free:
+## SQLBootcamp :free:
 
 
-##FullSQL Master Academy :dollar:
+## FullSQL Master Academy :dollar:
 
