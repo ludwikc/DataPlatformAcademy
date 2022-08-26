@@ -6,7 +6,9 @@ Instead of asking world-class experts what they think you should know about Data
 Hop on and let's take it to the next level.
 
 Current courses: 
+
 ##SQLBootcamp :free:
+
 
 ##FullSQL Master Academy :dollar:
 
