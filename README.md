@@ -18,12 +18,12 @@ How is it any different from all those *online courses* you'll find on Udemy, Co
 Current courses: 
 
 ## SQLBootcamp :free:
-Free bootcamp to get you up-and-running with basic SQL queries, so you can find out whether this is a career path you'd like to pursue. 
+Free 1-hour bootcamp to get you up-and-running with basic SQL queries, so you can find out whether this is a career path you'd like to pursue. 
 
 SQLBootcamp Course Agenda
 
 ## DPA: Core Developer
-Master SQL Querying and
+Master SQL Querying for Reporting and Basic Data Analysis
 
 ## DPA: Master Developer
 Master SQL Database design
