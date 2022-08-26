@@ -20,7 +20,7 @@ Current courses:
 ## SQLBootcamp :free:
 Free 1-hour bootcamp to get you up-and-running with basic SQL queries, so you can find out whether this is a career path you'd like to pursue. 
 
-SQLBootcamp Course Agenda
+[SQLBootcamp Course Agenda](Agenda/DPA_SQLBootcamp.md)
 
 ## DPA: Core Developer
 Master SQL Querying for Reporting and Basic Data Analysis
