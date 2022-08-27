@@ -10,6 +10,9 @@
 In the spirit of open source, it's you who decide on what content will be available on Data Platform Academy.
 Examples, code snippets, exercises are available for **free for anyone**. 
 
+[![DPA-SQLJoins-DEMO](https://siadlak.download/USuNSLqfLQtn4W/Screen-Shot-2022-08-27-16-54-41.png)](https://vimeo.com/743695067 "DataPlatformAcademy-Demo")
+
+
 Hop on and let's take it to the next level.
 
 * Each course is designed to be a **6-week *Zero-To-Hero* Program**
