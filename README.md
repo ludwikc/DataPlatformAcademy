@@ -1,12 +1,14 @@
 # DataPlatformAcademy
+<div style="text-align: center;">
+  <p><strong>Skill-building.</strong>
+    Not just <strong>knowledge-transfer</strong></p>
+  
+![DataPlatform.Academy](https://dsc.cloud/a030fa/uK7scSCCsC.png "DataPlatform.Academy")
 
-_**Skill-building.**_ 
-_Not just **knowledge-transfer**._
+</div>
 
 In the spirit of open source, it's you who decide on what content will be available on Data Platform Academy.
-Examples, code snippets, exercises are available for free for anyone. 
-
-You can upgrade to access teaching 
+Examples, code snippets, exercises are available for **free for anyone**. 
 
 Hop on and let's take it to the next level.
 
