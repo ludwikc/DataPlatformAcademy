@@ -1,5 +1,12 @@
 # DataPlatformAcademy
+
+_**Skill-building.**_ 
+_Not just **knowledge-transfer**._
+
 In the spirit of open source, it's you who decide on what content will be available on Data Platform Academy.
+Examples, code snippets, exercises are available for free for anyone. 
+
+You can upgrade to access teaching 
 
 Hop on and let's take it to the next level.
 
@@ -17,24 +24,24 @@ How is it any different from all those *online courses* you'll find on Udemy, Co
 
 Current courses: 
 
-## SQLBootcamp :free:
+## SQLBootcamp  <img src="https://dsc.cloud/a030fa/cgpvVT4bke.png" alt="FREE" height="25px" />
 Free 1-hour bootcamp to get you up-and-running with basic SQL queries, so you can find out whether this is a career path you'd like to pursue. 
 
 [SQLBootcamp Course Agenda](agenda/SQLBootcamp.md)
 
-## DPA: Core Developer
+## DPA: Core Developer <img src="https://dsc.cloud/a030fa/vzMJB48HUO.png" alt="PRO" height="20px" />
 Master SQL Querying for Reporting and Basic Data Analysis
 
-## DPA: Master Developer
+## DPA: Master Developer <img src="https://dsc.cloud/a030fa/vzMJB48HUO.png" alt="PRO" height="20px" />
 Master SQL Database design
 
-## DPA: Master Administrator 
+## DPA: Master Administrator <img src="https://dsc.cloud/a030fa/vzMJB48HUO.png" alt="PRO" height="20px" />
 Master SQL Database Administration
 
-## DPA: Master Azure SQL 
+## DPA: Master Azure SQL <img src="https://dsc.cloud/a030fa/vzMJB48HUO.png" alt="PRO" height="20px" />
 Master Azure SQL Database
 
-## DPA: Core PowerBI :free:
+## DPA: Core PowerBI  <img src="https://dsc.cloud/a030fa/cgpvVT4bke.png" alt="FREE" height="25px" />
 Get started with PowerBI
 
 
