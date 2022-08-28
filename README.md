@@ -32,23 +32,32 @@ Current courses:
 ## SQLBootcamp  <img src="https://dsc.cloud/a030fa/cgpvVT4bke.png" alt="FREE" height="25px" />
 Free 1-hour bootcamp to get you up-and-running with basic SQL queries, so you can find out whether this is a career path you'd like to pursue. 
 
-[SQLBootcamp Course Agenda](agenda/SQLBootcamp.md)
+[Course Agenda (final/released)](agenda/SQLBootcamp.md)
 
 ## DPA: Core Developer <img src="https://dsc.cloud/a030fa/vzMJB48HUO.png" alt="PRO" height="20px" />
 Master SQL Querying for Reporting and Basic Data Analysis
 
+[Course Agenda (working file)](wiki/Core-Developer-(working-agenda))
+
 ## DPA: Master Developer <img src="https://dsc.cloud/a030fa/vzMJB48HUO.png" alt="PRO" height="20px" />
 Master SQL Database design
+
+[Course Agenda (working file)](wiki/Master-Developer-(working-agenda))
 
 ## DPA: Master Administrator <img src="https://dsc.cloud/a030fa/vzMJB48HUO.png" alt="PRO" height="20px" />
 Master SQL Database Administration
 
+[Course Agenda (working file)](wiki/Master-Administrator-(working-agenda))
+
 ## DPA: Master Azure SQL <img src="https://dsc.cloud/a030fa/vzMJB48HUO.png" alt="PRO" height="20px" />
 Master Azure SQL Database
+
+[Course Agenda (working file)](wiki/Master-AzureSQL-(working-agenda))
 
 ## DPA: Core PowerBI  <img src="https://dsc.cloud/a030fa/cgpvVT4bke.png" alt="FREE" height="25px" />
 Get started with PowerBI
 
+[Course Agenda (working file)](wiki/Core-PowerBI-(working-agenda))
 
 More coming soon - as soon as you will add it to the list.
 
