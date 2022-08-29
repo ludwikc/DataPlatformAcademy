@@ -28,10 +28,17 @@ Hop on and let's take it to the next level.
 How is it any different from all those *online courses* you'll find on Udemy, Coursesra or Youtube? 
 
 1. Those so-called *"Experts"* think they know better. You sign up, you pay for a course and then half of it is something you already know, and the other is either a filler or unrelated to real-world scenarios.
-2. 
+2. I've been coaching, consulting, and working with world-wide enterprises and teaching SQL for 15+ years now. That's why I am humble enough to know I may be biased and that's why I prefer open-source approach and let you decide what is the most useful in a course you choose. 
 3. You have complete control over how the courses are being developed - starting with the agenda below: I am asking you: what do __YOU__ need to know? And then I will hire world-class experts to deliver the content that will make you grow and master Data Platform - regardless if you want to become Data Egineer, Scientist, Analyst, Administrator or Developer. 
-  
 
+
+
+### So is it FREE or not? 
+
+All content in this repo DataPlatform.Academy will always be free and available for all under GNU GPL License. Everything: agenda, module contents, course structure, even code snippets and entire scripts. 
+
+The only thing that will be offered as a paid upgrade is *the way I teach* this material and my personal support. That's it. 
+  
 
 # Current courses
 
