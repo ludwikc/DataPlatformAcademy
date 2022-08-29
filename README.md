@@ -35,9 +35,19 @@ How is it any different from all those *online courses* you'll find on Udemy, Co
 
 ### So is it FREE or not? 
 
-All content in this repo DataPlatform.Academy will always be free and available for all under GNU GPL License. Everything: agenda, module contents, course structure, even code snippets and entire scripts. 
+I've created a GitHub repository where I want to develop the perfect, actionable agenda for each one of the courses below: 
 
-The only thing that will be offered as a paid upgrade is *the way I teach* this material and my personal support. That's it. 
+The idea is that **all content** in this repository DataPlatform.Academy will **always be free** and **available for all** under GNU GPL License. 
+
+Everything: 
+* agenda, 
+* module contents, 
+* course structure, 
+* even code snippets 
+* and entire scripts.
+all **free for everyone**.
+
+The only thing that will be offered as a paid upgrade is *the way **I** teach* this material and my personal support. That's it. 
   
 
 # Current courses
